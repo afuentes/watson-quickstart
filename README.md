@@ -13,3 +13,5 @@ $
 ## Reference 
 
 * https://www.npmjs.com/package/ibm-watson
+* https://github.com/higuma/web-audio-recorder-js
+
